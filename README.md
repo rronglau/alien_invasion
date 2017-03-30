@@ -4,6 +4,6 @@
 1. Ìí¼Ó×Óµ¯Éä»÷ÒôÐ§¡£
 
 # Screenshots
-![Welcome](screenshots\alien_001.PNG)
+![Welcome](screenshots/alien_001.PNG)
 
-![Playing](screenshots\alien_002.PNG)
+![Playing](screenshots/alien_002.PNG)
